@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b6f1127929af58439659354d1009264
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Materials/Characters/JohnToonShaded.mat
+  uploadId: 684792

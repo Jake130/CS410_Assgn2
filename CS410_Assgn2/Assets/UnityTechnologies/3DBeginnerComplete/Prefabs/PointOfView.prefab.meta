@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a6f7024e2eb90140bdf570ef653bac8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Prefabs/PointOfView.prefab
+  uploadId: 684792

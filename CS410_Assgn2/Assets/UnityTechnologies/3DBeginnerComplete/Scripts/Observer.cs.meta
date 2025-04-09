@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3ffcb4bd792607f4f8200beaa0babb83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Scripts/Observer.cs
+  uploadId: 684792

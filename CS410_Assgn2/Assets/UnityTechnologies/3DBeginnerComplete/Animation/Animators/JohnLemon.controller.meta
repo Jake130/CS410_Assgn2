@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 125d3f71c2e7faf4cb375103b484d93e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Animation/Animators/JohnLemon.controller
+  uploadId: 684792

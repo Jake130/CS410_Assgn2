@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d19250bdd4e0df4c8da855e85a8d70b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Prefabs/VFX/Shower.prefab
+  uploadId: 684792

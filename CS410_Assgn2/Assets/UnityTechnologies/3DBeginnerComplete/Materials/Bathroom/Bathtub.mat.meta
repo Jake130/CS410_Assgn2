@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b80a9d3765165844c9e6e6505f6d511c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Materials/Bathroom/Bathtub.mat
+  uploadId: 684792

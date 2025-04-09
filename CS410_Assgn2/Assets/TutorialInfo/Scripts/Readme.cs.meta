@@ -4,9 +4,16 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - icon: {instanceID: 0}
+  - icon: {fileID: 2800000, guid: efe1f09805965e647a2bec8250b72349, type: 3}
   executionOrder: 0
   icon: {fileID: 2800000, guid: a186f8a87ca4f4d3aa864638ad5dfb65, type: 3}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/TutorialInfo/Scripts/Readme.cs
+  uploadId: 684792

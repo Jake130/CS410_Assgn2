@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a088a5f9e886a64b90e23ed9d048b4f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Prefabs/Environment/Corridors/Wall_Corner_Interior.prefab
+  uploadId: 684792

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fca350f99b41b0845b466df4bb285fa6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Prefabs/Environment/Corridors/Wall_Window_01.prefab
+  uploadId: 684792

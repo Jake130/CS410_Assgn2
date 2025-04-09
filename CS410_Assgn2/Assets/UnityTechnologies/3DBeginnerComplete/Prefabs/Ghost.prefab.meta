@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abeb186619cc7e6419cb81e1e4dfa162
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143846
+  packageName: 'Unity Learn | 3D Beginner: Complete Project | URP'
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Prefabs/Ghost.prefab
+  uploadId: 684792
