@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 5049f0893830e8d4cb50e478525d1a2b
+  productGUID: 790742613d3ca1f46a4d868cd6d770e9
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -842,7 +842,7 @@ PlayerSettings:
   cloudProjectId: bab54058-2c82-4f0f-8333-4655edb18500
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: CS410_Assgn2 2025-04-08_17-47-51
   organizationId: jakester-130
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1

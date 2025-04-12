@@ -1,14 +1,5 @@
 fileFormatVersion: 2
 guid: 3c2912133fd6d574f81dc713829954dd
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
   productId: 143846
@@ -16,3 +7,19 @@ AssetOrigin:
   packageVersion: 1.7
   assetPath: Assets/UnityTechnologies/3DBeginnerComplete/Scripts/GameEnding.cs
   uploadId: 684792
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 6077229646317852079, guid: e58a8494f35e17f45ba5bbffdfb92517,
+      type: 3}
+  - exitBackgroundImageCanvasGroup: {instanceID: 0}
+  - exitAudio: {instanceID: 0}
+  - caughtBackgroundImageCanvasGroup: {instanceID: 0}
+  - caughtAudio: {instanceID: 0}
+  - compassCanvasGroup: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
