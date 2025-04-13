@@ -16,3 +16,10 @@ More specifically, this is programmed mainly within the two scripts EnemyVisibil
 For this project, I added a simple smoke particle effect that activates when the player enters the dining room in John Lemon’s Haunted Jaunt. I began by creating a custom Particle System in Unity and adjusted its settings to resemble light gray smoke—fading out over time and gently rising. I disabled “Play on Awake” so the smoke wouldn’t appear immediately at the start of the game, then positioned the effect in a key location to create atmospheric tension when entering the space.
 
 To trigger the smoke effect, I created an empty GameObject named RoomTrigger and added a Box Collider set as a trigger. I wrote a custom C# script that listens for the player entering the collider, and when triggered, calls the .Play() method on the Particle System. I assigned the smoke effect through the Unity Inspector and ensured the player had the correct tag and collider setup for detection. After debugging, I confirmed the smoke effect plays seamlessly as the player crosses into the room.
+
+## Linear Interpolation - Jacob Kolster
+
+To integrate linear interpolation I added a compass, that points the character towards the end of the game. In doing so I added the `CompassDirection` script that appears in Assets/UnityTechnologies/3DBeginner/Scripts, which fluidly animates the rotation of the compass,
+and manipulated the `GameEnding` script in same directory, such that the compass would fade away when the game ends. In creating the compass graphic I added a game object `Compass` located under the `Fader Canvas` UI, and added two compass PNGs located in Assets/UnityTechnologies/3DBeginner/Textures/UI.
+
+When implementing linear interpolation within the `CompassDirection` script, I took the vector between the player and the finish line, and calculated its signed angle with the vector <0,1> (pointin up). The result of this is the direction that the compass should point, hence I use `Quaternion.Lerp()` with `Time.deltaTime` to slowly push the compass towards this dynamic direction. All of my calculations are done in FixedUpdate to limit unecessary computation.

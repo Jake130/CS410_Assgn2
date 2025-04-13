@@ -10,6 +10,7 @@ public class GameEnding : MonoBehaviour
     public AudioSource exitAudio;
     public CanvasGroup caughtBackgroundImageCanvasGroup;
     public AudioSource caughtAudio;
+    public CanvasGroup compassCanvasGroup;
 
     bool m_IsPlayerAtExit;
     bool m_IsPlayerCaught;
@@ -51,6 +52,7 @@ public class GameEnding : MonoBehaviour
             
         m_Timer += Time.deltaTime;
         imageCanvasGroup.alpha = m_Timer / fadeDuration;
+        compassCanvasGroup.alpha = (1-m_Timer) / fadeDuration;
 
         if (m_Timer > fadeDuration + displayImageDuration)
         {
